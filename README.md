@@ -1,6 +1,10 @@
 ### Hi there 👋
 <h1 align="center">Cesar Marca NUñez <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 ### 🪚 Detail
+<span  align="center">
+  <img src="https://i.postimg.cc/N0rCYKtY/353064240-1564335844091904-5827872636116732297-n.jpg" alt="">
+</span>
+ 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=guillermosifu&theme=onedark" />
 </p>
