@@ -16,7 +16,12 @@
       <a href=""><img src="https://img.icons8.com/bubbles/50/000000/youtube.png" alt="Youtube"/></a>
   </p>
 
+### 🔥 Streak Stats
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=guillermosifu&theme=algolia" alt="guillermosifu"  /></p>
 
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guillermosifu&layout=compact&theme=algolia"></p>
+
+<p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=guillermosifu&count_private=true&show_icons=true&&theme=algolia&include_all_commits=true" width="400"></p> 
 
 
 
