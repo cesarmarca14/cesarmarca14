@@ -1,30 +1,9 @@
 ### Hi there 👋
 <h1 align="center">Cesar Marca NUñez <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="stylesheet" href="./menu.css" />
-    <link rel="stylesheet" href="./carrucel.css" />
-    <link rel="stylesheet" href="./modoDarck.css" />
-    <link rel="stylesheet" href="./productos.css" />
-    <link rel="stylesheet" href="./texto.css">
-    <link
-      rel="stylesheet"
-      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"
-      integrity="sha512-DTOQO9RWCH3ppGqcWaEA1BIZOC6xxalwEsw9c2QQeAIftl+Vegovlnee1c9QX4TctnWMn13TZye+giMm8e2LwA=="
-      crossorigin="anonymous"
-      referrerpolicy="no-referrer"
-    />
-    <script defer src="./index.js"></script>
-    <script defer src="./menu.js"></script>
-
-    <title>Ecommerce-cesar</title>
-  </head>
-
-  <body>
-    <!-- -----------menu---------- -->
+### 🪚 Detail
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=guillermosifu&theme=onedark" />
+</p>
     <header class="header">
       <button class="nav-toggle">
         <i class="fa-solid fa-bars"></i>
